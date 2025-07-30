@@ -5,7 +5,7 @@ import Advise from "../adviseAreas/Advise"
 import CTA from "../cta/CTA"
 import About from "../about/About"
 import Experience from "../experience/Experience";
-import Phisolophy from "../philosophy/philosophy";
+import Phisolophy from "../philosophy/Philosophy";
 import Pricing from "../pricing/Pricing";
 import Contact from "../contact/Contact";
 import Footer from "./components/Footer";
