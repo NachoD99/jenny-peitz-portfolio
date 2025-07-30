@@ -1,0 +1,15 @@
+{
+  "title": "Proceso y costos",
+  "duration": {
+    "title": "Duración",
+    "line1": "Una sesión de asesoría dura generalmente 50 minutos.",
+    "line2": "Las conversaciones son online por video."
+  },
+  "cost": {
+    "title": "Costos",
+    "individual": "Sesión individual (50 minutos): 80 €",
+    "package": "Paquete: 12 sesiones – 820 €",
+    "note1": "Los paquetes permiten un acompañamiento continuo a un precio reducido. Son flexibles y válidos por 6 meses.",
+    "note2": "La facturación es privada, no trabajo con seguros médicos."
+  }
+}

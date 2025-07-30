@@ -1,0 +1,26 @@
+{
+  "title": "Meine Beratungsphilosophie",
+  "cards": [
+    {
+      "title": "Individueller Ansatz",
+      "content": [
+        "Jeder Mensch ist einzigartig. Deshalb passe ich die Beratung an dich an.",
+        "Ich arbeite integrativ und flexibel – und wähle gemeinsam mit dir Methoden, die wirklich zu dir passen."
+      ]
+    },
+    {
+      "title": "Wissenschaftliche Grundlage",
+      "content": [
+        "Ich kombiniere wissenschaftlich fundiertes psychologisches Wissen mit einem offenen, ressourcenorientierten Blick."
+      ]
+    }
+  ],
+  "valuesTitle": "Haltung und Werte",
+  "valuesIntro": "Ich arbeite mit einer menschlichen, offenen und akzeptierenden Haltung. Besonders wichtig sind mir:",
+  "values": [
+    "Kultursensible Beratung",
+    "LGBTQIA+ affirmativer Ansatz",
+    "Traumasensibles Arbeiten",
+    "Ressourcenorientierung statt Pathologisierung"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Process and Costs",
+  "duration": {
+    "title": "Duration",
+    "line1": "A counseling session usually lasts 50 minutes.",
+    "line2": "The conversations take place online via video."
+  },
+  "cost": {
+    "title": "Costs",
+    "individual": "Individual session (50 minutes): €80",
+    "package": "Package: 12 sessions – €820",
+    "note1": "Packages allow continuous support at a reduced price. They are flexible and valid for 6 months.",
+    "note2": "Billing is private; I do not work with health insurance."
+  }
+}

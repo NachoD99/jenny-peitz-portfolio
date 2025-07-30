@@ -1,0 +1,15 @@
+{
+  "title": "Ablauf und Kosten",
+  "duration": {
+    "title": "Dauer",
+    "line1": "Eine Beratungssitzung dauert in der Regel 50 Minuten.",
+    "line2": "Die Gespräche finden online per Video statt."
+  },
+  "cost": {
+    "title": "Kosten",
+    "individual": "Einzelsitzung (50 Minuten): 80 €",
+    "package": "Paket: 12 Sitzungen – 820 €",
+    "note1": "Pakete ermöglichen eine kontinuierliche Begleitung zu einem reduzierten Preis. Sie sind flexibel und 6 Monate gültig.",
+    "note2": "Die Abrechnung erfolgt privat, ich arbeite nicht mit Krankenkassen."
+  }
+}

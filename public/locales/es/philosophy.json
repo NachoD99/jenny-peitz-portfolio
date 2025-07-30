@@ -1,0 +1,26 @@
+{
+  "title": "Mi filosofía de asesoría",
+  "cards": [
+    {
+      "title": "Enfoque personalizado",
+      "content": [
+        "Cada persona es única. Por eso adapto la asesoría a ti.",
+        "Trabajo de manera integrativa y flexible — y elijo contigo los métodos que realmente se ajusten a ti."
+      ]
+    },
+    {
+      "title": "Base científica",
+      "content": [
+        "Combino conocimiento psicológico científicamente fundamentado con una mirada abierta y orientada a tus recursos y fortalezas."
+      ]
+    }
+  ],
+  "valuesTitle": "Actitud y valores",
+  "valuesIntro": "Trabajo con una visión humana abierta y aceptadora. Me importan especialmente:",
+  "values": [
+    "Asesoría culturalmente sensible",
+    "Enfoque afirmativo LGBTQIA+",
+    "Trabajo sensible al trauma",
+    "Orientación a recursos en lugar de patologización"
+  ]
+}

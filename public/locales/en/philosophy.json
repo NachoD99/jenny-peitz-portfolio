@@ -1,0 +1,26 @@
+{
+  "title": "My Counseling Philosophy",
+  "cards": [
+    {
+      "title": "Personalized Approach",
+      "content": [
+        "Each person is unique. That's why I adapt the counseling to you.",
+        "I work integratively and flexibly — choosing with you the methods that truly fit you."
+      ]
+    },
+    {
+      "title": "Scientific Foundation",
+      "content": [
+        "I combine scientifically grounded psychological knowledge with an open, strength-oriented perspective."
+      ]
+    }
+  ],
+  "valuesTitle": "Attitude and Values",
+  "valuesIntro": "I work with a human, open, and accepting perspective. I especially care about:",
+  "values": [
+    "Culturally sensitive counseling",
+    "LGBTQIA+ affirmative approach",
+    "Trauma-sensitive work",
+    "Resource-oriented rather than pathologizing"
+  ]
+}
